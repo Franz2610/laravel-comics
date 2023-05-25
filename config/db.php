@@ -40,40 +40,65 @@ return  [
 
 
 'dcComics' => [
-    ['text' => 'Characters'],
-    ['text' => 'Comics'],
-    ['text' => 'Movies'],
-    ['text' => 'TV'],
-    ['text' => 'Games'],
-    ['text' => 'Videos'],
-    ['text' => 'News']
+    ['text' =>
+    'Characters'],
+    ['text' =>
+    'Comics'],
+    ['text' =>
+    'Movies'],
+    ['text' =>
+    'TV'],
+    ['text' =>
+    'Games'],
+    ['text' =>
+    'Videos'],
+    ['text' =>
+    'News']
 ],
 
 'shop' => [
-    ['text' => 'Shop DC'],
-    ['text' => 'Shop DC Collectibles']
+    ['text' =>
+    'Shop DC'],
+    ['text' =>
+    'Shop DC Collectibles']
 ],
 
 'dc' => [
-    ['text' => 'Terms Of Use'],
-    ['text' => 'Privacy policy'],
-    ['text' => 'Ad Choices'],
-    ['text' => 'Advertising'],
-    ['text' => 'Jobs'],
-    ['text' => 'Subscriptions'],
-    ['text' => 'Talent Workshops'],
-    ['text' => 'CPSC Certificates'],
-    ['text' => 'Rating'],
-    ['text' => 'Shop Help'],
-    ['text' => 'Contact Us']
+    ['text' =>
+    'Terms Of Use'],
+    ['text' =>
+    'Privacy policy'],
+    ['text' =>
+    'Ad Choices'],
+    ['text' =>
+    'Advertising'],
+    ['text' =>
+    'Jobs'],
+    ['text' =>
+    'Subscriptions'],
+    ['text' =>
+    'Talent Workshops'],
+    ['text' =>
+    'CPSC Certificates'],
+    ['text' =>
+    'Rating'],
+    ['text' =>
+    'Shop Help'],
+    ['text' =>
+    'Contact Us']
 ],
 
 'sites' => [
-    ['text' => 'DC'],
-    ['text' => 'MAD Magazine'],
-    ['text' => 'DC Kids'],
-    ['text' => 'DC Universe'],
-    ['text' => 'DC Power Visa']
+    ['text' =>
+    'DC'],
+    ['text' =>
+    'MAD Magazine'],
+    ['text' =>
+     'DC Kids'],
+    ['text' =>
+    'DC Universe'],
+    ['text' =>
+    'DC Power Visa']
 ],
 'comics' => [
     [
